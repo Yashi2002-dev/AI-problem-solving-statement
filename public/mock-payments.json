@@ -1,0 +1,14 @@
+[
+  { "id": "txn_1042", "customerId": "cust_1001", "customerName": "Aarav Sharma", "amount": 1200, "status": "FAILED", "failureReason": "Insufficient funds", "ageMinutes": 8 },
+  { "id": "txn_1041", "customerId": "cust_1001", "customerName": "Aarav Sharma", "amount": 899, "status": "SUCCESS", "failureReason": null, "ageMinutes": 12 },
+  { "id": "txn_1040", "customerId": "cust_1002", "customerName": "Meera Patel", "amount": 4500, "status": "FAILED", "failureReason": "Bank timeout", "ageMinutes": 19 },
+  { "id": "txn_1039", "customerId": "cust_1001", "customerName": "Aarav Sharma", "amount": 250, "status": "FAILED", "failureReason": "Insufficient funds", "ageMinutes": 31 },
+  { "id": "txn_1038", "customerId": "cust_1002", "customerName": "Meera Patel", "amount": 760, "status": "SUCCESS", "failureReason": null, "ageMinutes": 42 },
+  { "id": "txn_1037", "customerId": "cust_1003", "customerName": "Kabir Singh", "amount": 1850, "status": "FAILED", "failureReason": "Card declined", "ageMinutes": 54 },
+  { "id": "txn_1036", "customerId": "cust_1001", "customerName": "Aarav Sharma", "amount": 3200, "status": "SUCCESS", "failureReason": null, "ageMinutes": 76 },
+  { "id": "txn_1035", "customerId": "cust_1002", "customerName": "Meera Patel", "amount": 680, "status": "FAILED", "failureReason": "Bank timeout", "ageMinutes": 91 },
+  { "id": "txn_1034", "customerId": "cust_1001", "customerName": "Aarav Sharma", "amount": 1100, "status": "FAILED", "failureReason": "Insufficient funds", "ageMinutes": 120 },
+  { "id": "txn_1033", "customerId": "cust_1003", "customerName": "Kabir Singh", "amount": 2100, "status": "SUCCESS", "failureReason": null, "ageMinutes": 180 },
+  { "id": "txn_1032", "customerId": "cust_1002", "customerName": "Meera Patel", "amount": 3200, "status": "FAILED", "failureReason": "Card declined", "ageMinutes": 240 },
+  { "id": "txn_1031", "customerId": "cust_1003", "customerName": "Kabir Singh", "amount": 900, "status": "PROCESSING", "failureReason": null, "ageMinutes": 300 }
+]
